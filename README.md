@@ -33,10 +33,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ajaichemmanam&count_private=true&show_icons=true&hide_border=true" alt="Ajai's github stats" width="420"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ajaichemmanam&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="Ajai's github stats" width="450"/> -->
 
-<!-- ---
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaichemmanam&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" width="450"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaichemmanam&hide=jupyter%20notebook&langs_count=6&layout=compact" alt="Top Languages"/>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaichemmanam&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" width="350"/>  -->
 
 ---
 
