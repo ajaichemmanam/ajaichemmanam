@@ -4,11 +4,12 @@
 
 - Researcher in Artificial Intelligence and Machine Learning.
 
-- 5 Years of Industry Experience in developing AI & ML, IoT Solutions and AR-VR Projects.
+- 7 Years of Industry Experience in developing AI & ML, IoT Solutions and AR-VR Projects.
 
 - Published multiple International Journals and Research papers.
 
 - Technology Expertise:
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
