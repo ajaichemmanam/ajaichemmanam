@@ -4,7 +4,7 @@
 
 - Researcher in Artificial Intelligence and Machine Learning.
 
-- 7 Years of Industry Experience in developing AI & ML, IoT Solutions and AR-VR Projects.
+- 8+ Years of Industry Experience in developing AI & ML, IoT Solutions and AR-VR Projects.
 
 - Published multiple International Journals and Research papers.
 
